@@ -1,11 +1,20 @@
-print('Hello World')
+print("=" * 40)
+print("🦖  ASCII T-REX  🦖".center(40))
+print("=" * 40)
 
-text = '''
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
-'''
+trex = """
+                     __
+                    / _)
+             _.----/ /
+            /         /
+         __/ (  | (  |
+        /__.-'|_|--|_|
 
-print(text)
+           T - R E X
+"""
+
+print(trex)
+
+print("=" * 40)
+print("Rawrrr! 🦖".center(40))
+print("=" * 40)
